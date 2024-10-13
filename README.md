@@ -8,10 +8,10 @@ This application helps businesses track visitor activity, including sign-ins and
 
 ## Team Members
 
-- Kushal Dhungel
-- Sujan Bhattarai
-- Vrushabh Soni
-- Sachet Shrestha
+- Kushal Dhungel (A00286174)
+- Sujan Bhattarai (A00302919)
+- Vrushabh Soni (A00294482)
+- Sachet Shrestha (A00298291)
 
 ## Features
 
