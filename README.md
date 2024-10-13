@@ -30,8 +30,8 @@ This application helps businesses track visitor activity, including sign-ins and
 
 ### Backlog
 
-- **Visitor Validation**: Ensure visitor details are valid when adding or editing.
-- **Sign-Out Logic**: Improve handling of visitors signing out without a prior sign-in.
+- **Visitor Validation**: Ensure visitor details are valid when adding or editing. (Sujan)
+- **Sign-Out Logic**: Improve handling of visitors signing out without a prior sign-in. (Kushal)
 
 ### In Progress
 
