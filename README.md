@@ -54,7 +54,9 @@ Main Menu
 | 4. Sign-Out Visitor                |
 | 5. Exit                            |
 +------------------------------------+
+
 Add Visitor Screen
+
 +------------------------------------+
 |        Add New Visitor             |
 | Please enter the following:        |
@@ -64,12 +66,16 @@ Add Visitor Screen
 | Phone Number:                      |
 | Home Address:                      |
 +------------------------------------+
+
 Search Visitor Screen
+
 +------------------------------------+
 |        Search Visitor              |
 | Enter First Name, Last Name, or ID:|
 +------------------------------------+
+
 **How to Run**
+
 
 Clone or Download: Clone or download the project from the repository.
 Run the Project: Open the solution in Visual Studio or any C# IDE and run the project.
