@@ -56,7 +56,6 @@ Main Menu
 +------------------------------------+
 
 Add Visitor Screen
-
 +------------------------------------+
 |        Add New Visitor             |
 | Please enter the following:        |
@@ -68,15 +67,12 @@ Add Visitor Screen
 +------------------------------------+
 
 Search Visitor Screen
-
 +------------------------------------+
 |        Search Visitor              |
 | Enter First Name, Last Name, or ID:|
 +------------------------------------+
 
 **How to Run**
-
-
 Clone or Download: Clone or download the project from the repository.
 Run the Project: Open the solution in Visual Studio or any C# IDE and run the project.
 Data Persistence: Visitor data is saved in memory for now, with plans to implement file-based persistence in the future.
